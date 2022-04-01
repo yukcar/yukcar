@@ -1,6 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukcar)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukcar)](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md
+
+
 - 👋 Hi, I’m @yukcar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
